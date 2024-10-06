@@ -1,0 +1,137 @@
+[   
+    {
+        "id": 1,
+        "name": "Lisa Parker2",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Frank Thomas2",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-3.jpg",
+        "messagecount" : "12:55px"
+    },
+    {
+        "id": 3,
+        "name": "Clifford Taylor2",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "nickname": "CT",
+        "profile": ""
+    },
+    {
+        "id": 4,
+        "name": "Janette Caster2",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sarah Beattie2",
+        "status": "online",
+        "profile": "assets/images/users/avatar-5.jpg",
+        "messagecount" : 5
+    },
+    {
+        "id": 6,
+        "name": "Nellie Cornett",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-6.jpg",
+        "messagecount" : 2
+    },
+    {
+        "id": 7,
+        "name": "Chris Kiernan",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "nickname": "CK",
+        "profile": ""
+    },
+    {
+        "id": 8,
+        "name": "Edith Evans",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "nickname": "EE",
+        "profile": ""
+    },
+    {
+        "id": 9,
+        "name": "Joseph Siegel",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-7.jpg"
+      },
+    {
+        "id": 10,
+        "name": "Ronald Downey",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "nickname": "RD",
+        "profile": "",
+        "messagecount" : 18
+    },       
+    {
+        "id": 11,
+        "name": "Justyn Wisoky",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-1.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Keaton King",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-5.jpg"
+    }, 
+    {
+        "id": 13,
+        "nickname": "AC",
+        "name": "Alice Cruickshank",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": ""
+    },
+    {
+        "id": 14,
+        "nickname": "MM",
+        "name": "Marian Moen",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": ""
+    },
+    {
+        "id": 15,
+        "name": "Barrett Brown",
+        "status": "online",
+        "profile": "assets/images/users/avatar-4.jpg"
+    },  
+    {
+        "id": 16,
+        "name": "Victor Beahan",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-10.jpg"
+    },
+    {
+        "id": 17,
+        "nickname": "GB",
+        "name": "Gilbert Beer",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": ""
+    },
+    {
+        "id": 18,
+        "name": "Wayne Runte",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-2.jpg"
+    }      
+]

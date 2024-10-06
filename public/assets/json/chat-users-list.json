@@ -1,0 +1,99 @@
+[
+  {
+    "users": [
+      {
+        "id": 1,
+        "name": "Lisa Parker1",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "time": "12:55PM",
+        "profile": "assets/images/users/avatar-2.jpg"
+       
+      },
+      {
+        "id": 2,
+        "name": "Frank Thomas1",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-3.jpg",
+        "time": "12:55PM"
+      
+      },
+      {
+        "id": 3,
+        "name": "Clifford Taylor1",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "nickname": "CT",
+        "time": "12:55PM"
+        
+      
+        
+      },
+      {
+        "id": 4,
+        "name": "Janette Caster",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "time": "12:55PM",
+        "profile": "assets/images/users/avatar-4.jpg"
+      
+      },
+      {
+        "id": 5,
+        "name": "Sarah Beattie",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "time": "12:55PM",
+        "profile": "assets/images/users/avatar-5.jpg"
+       
+      },
+      {
+        "id": 6,
+        "name": "Nellie Cornett",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "profile": "assets/images/users/avatar-6.jpg",
+        "time": "12:55PM"
+        
+      },
+      {
+        "id": 7,
+        "name": "Chris Kiernan",
+        "status": "online",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "nickname": "CK",
+        "time": "12:55PM",
+        "profile": ""
+      },
+      {
+        "id": 8,
+        "name": "Edith Evans",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "nickname": "EE",
+        "time": "12:55PM",
+        "profile": ""
+      },
+      {
+        "id": 9,
+        "name": "Joseph Siegel",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "time": "12:55PM",
+        "profile": "assets/images/users/avatar-7.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Seena",
+        "status": "away",
+        "desc": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi.",
+        "time": "12:55PM",
+        "profile": "assets/images/users/avatar-7.jpg"
+      }
+    ],
+    "channels": [
+      
+    ]
+  }
+]
